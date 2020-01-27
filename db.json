@@ -3,12 +3,12 @@
   "posts": [
     {
       "id": 1,
-      "name": "Potato"
+      "name": "Potato",
       "imageUrl": "abc"
     },
     {
       "id": 2,
-      "name": "Tomato"
+      "name": "Tomato",
       "imageUrl": "abc"
     }
   ]
