@@ -4,12 +4,12 @@
     {
       "id": 1,
       "name": "Potato"
-      "imageUrl":""
+      "imageUrl": "abc"
     },
     {
       "id": 2,
       "name": "Tomato"
-      "imageUrl":""
+      "imageUrl": "abc"
     }
   ]
 }
