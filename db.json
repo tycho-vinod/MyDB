@@ -1,1 +1,15 @@
 
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Potato"
+      "imageUrl":""
+    },
+    {
+      "id": 2,
+      "name": "Tomato"
+      "imageUrl":""
+    }
+  ]
+}
